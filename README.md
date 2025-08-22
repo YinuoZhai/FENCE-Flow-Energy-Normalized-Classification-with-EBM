@@ -1,7 +1,7 @@
 # FENCE-Flow-Energy-Normalized-Classification-with-EBM
 
 ## Introduction
-We propose a sample/feature-level discriminator that combines **energy + energy gradient**, and use **Flow Matching** for latent space preheating, combined with DSE/NCE, to improve the robustness-accuracy trade-off. The repository contains a complete implementation on CIFAR-10, a routing calibrator, and visualization tools.\
+We propose a sample/feature-level discriminator that combines **energy + energy gradient**, and use **Flow Matching** for latent space preheating, combined with DSE/NCE, to improve the robustness-accuracy trade-off. The repository contains a complete implementation on CIFAR-10, a routing calibrator, and visualization tools.
 
 ## Running environment
 ```bash
