@@ -13,7 +13,7 @@ numpy= 1.24.4
  
 ## Quick start
 ```bash
-git clone https://github.com/YinuoZhai/FENCE-Flow-Energy-Normalized-Classification-with-EBM-.git
+git clone https://github.com/YinuoZhai/FENCE-Flow-Energy-Normalized-Classification-with-EBM.git
 cd FENCE-Flow-Energy-Normalized-Classification-with-EBM-
 pip install -e .
 python -m ebm_at.main
